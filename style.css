@@ -44,7 +44,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /*border: 1px solid red; utilizar para entender*/
   margin: 56px auto 0px; /*56(top) auto(laterais) 0(bottom) se tiver 4 elementos, lembrar da regra do reloginho*/
 }
